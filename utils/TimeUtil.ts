@@ -114,7 +114,7 @@ export class TimeUtil {
         }
     
         if (daysDifference === 2) {
-            return 'toissa päivänä';
+            return 'toissapäivänä';
         }
     
         const startOfWeek = new Date(now);
